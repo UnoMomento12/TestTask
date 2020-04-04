@@ -1,0 +1,7 @@
+C:\Users\KDevAccount\Desktop\Test\TestTask\obj\Debug\TestTask.csprojAssemblyReference.cache
+C:\Users\KDevAccount\Desktop\Test\TestTask\bin\Debug\TestTask.exe.config
+C:\Users\KDevAccount\Desktop\Test\TestTask\bin\Debug\TestTask.exe
+C:\Users\KDevAccount\Desktop\Test\TestTask\bin\Debug\TestTask.pdb
+C:\Users\KDevAccount\Desktop\Test\TestTask\obj\Debug\TestTask.exe
+C:\Users\KDevAccount\Desktop\Test\TestTask\obj\Debug\TestTask.pdb
+C:\Users\KDevAccount\Desktop\Test\TestTask\bin\Debug\02_textSample.txt
